@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-TOP tic tac toe assignment
+TOP odin-recipies assignment
